@@ -1,0 +1,13 @@
+{
+    "mask_visible_threshold": 0.3,
+    "undersegment_filter_threshold": 0.3,
+    "view_consensus_threshold": 0.9,
+    "contained_threshold": 0.8,
+    "point_filter_threshold": 0.5,
+    "dataset": "scannet",
+    "task": "unposed_images",
+    "num_classes": 200,
+    "frame_ids": [0, 6, 13, 20, 27, 33, 40, 47, 54, 61, 67, 74, 81, 88, 95, 101, 108, 115, 122, 129, 135, 142, 149, 156, 163, 169, 176, 183, 190, 197, 203, 210, 217, 224, 231, 237, 244, 251, 258, 265, 271, 278, 285, 292, 299],
+    "cropformer_path": "weights/Mask2Former_hornet_3x_576d0b.pth",
+    "pkl_path": "../data/scannet/scannet200_oneformer3d_infos_val.pkl"
+}
