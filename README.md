@@ -1,6 +1,8 @@
 # 🦁 Zoo3D: Zero-Shot 3D Object Detection at Scene Level 🐼
 
 ## 🐾 News
+🦉 Zoo3D is accepted to CVPR 2026!
+
 🦁 We released Zoo3D₀!
 
 ⏳🐢 Code will be released soon! Stay tuned
